@@ -24,10 +24,5 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
   gem 'hawkins'
-  #gem "webrick", "~> 1.8"
-  # Fix warning, see https://github.com/github/pages-gem/issues/887#issuecomment-1773067676
-  install_if -> { ENV["GITHUB_ACTIONS"] != "true" } do
-    puts "Is GitHub action: #{ENV["GITHUB_ACTIONS"] == "true"}"
-    gem "webrick", "~> 1.8"
-  end 
+  gem "webrick", "~> 1.8"
 end
