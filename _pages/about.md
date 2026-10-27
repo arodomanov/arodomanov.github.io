@@ -34,7 +34,7 @@ I am also interested in various specific applications of Optimization,
 especially in Machine Learning.
 
 My PhD thesis is [Quasi-Newton Methods with Provable Efficiency
-Guarantees](https://dial.uclouvain.be/pr/boreal/object/boreal%3A266105/datastream/PDF_01/view).
+Guarantees](/files/phd-thesis.pdf).
 
 For the list of publications, please see either my [CV](/files/cv.pdf) or
 [Google Scholar](https://scholar.google.com/citations?user=u95GRZQAAAAJ).
